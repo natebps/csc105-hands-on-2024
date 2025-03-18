@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+@tailwind utilities;
+
+body{
+    
+    background: rgba(rgba(194, 94, 94, 0.071),linear-gradient(rgb(252, 239, 239),rgb(229, 72, 169)));
+}
